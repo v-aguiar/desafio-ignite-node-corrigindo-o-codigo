@@ -4,8 +4,8 @@
 
 ### Requests
 
-- [] Should be able to create a new repository
-- [] Should be able to list the projects
+- [x] Should be able to create a new repository
+- [x] Should be able to list the projects
 - [] Should be able to update repository
 - [] Should be able to delete the repository
 - [] Should be able to give a like to the repository
